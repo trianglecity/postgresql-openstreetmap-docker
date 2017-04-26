@@ -5,13 +5,18 @@
 
 
 Reference 1: http://learnosm.org/en/osm-data/osm2pgsql/
+
 Reference 2: https://docs.docker.com/engine/userguide/networking/default_network/dockerlinks/#communication-across-links
+
 Reference 3: https://live.osgeo.org/en/quickstart/pgrouting_quickstart.html
 
 
 NOTICE 1: faroe-islands-latest.osm is from http://download.geofabrik.de/europe/faroe-islands.html
+
 NOTICE 2: two terminals are used for the example.
+
 NOIICE 3: password for the examples is "password" (check out init-user-db.sh for details).
+
 
 Please follow the instructions below to run the osm-postgres and pgr_dijkstra examples.
 
